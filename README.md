@@ -39,11 +39,11 @@ real-world problems.
   A preference-driven matching platform that aligns roommates based on lifestyle,
   habits, and compatibility signals rather than basic filters.
 
-- **IoT-Enabled Hyperlocal Air Quality Monitoring & Prediction System (Completed)**  
+- **IoT-Enabled Hyperlocal Air Quality Monitoring & Prediction System (Executed)**  
   Built using ESP32-based sensors, cloud dashboards, and ML models to monitor,
   analyze, and predict air quality at a localized level.
 
-- **Smart Home Automation with Voice Assistants (Completed)**  
+- **Smart Home Automation with Voice Assistants (Executed)**  
   Implemented home automation workflows integrated with Google Assistant and Alexa,
   enabling voice-controlled appliances and routines.
 
