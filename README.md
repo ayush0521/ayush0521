@@ -57,7 +57,7 @@ real-world problems.
 ---
 
 ### 🧩 How I Work
-- Prefer **clarity over complexity**  
+- Prefer **clarity over complexity**
 - Document design decisions and trade-offs  
 - Improve systems incrementally through feedback and iteration  
 - Treat GitHub as a **long-term engineering log**, not just a code dump
